@@ -1,4 +1,4 @@
-Hi I'm Rahul, currently based out in Dublin, Ireland. Experienced Platform and Backend Engineer who enjoy desiging Distributed Systems.
+Hi I'm Rahul, currently based in Dublin, Ireland. Experienced Platform and Backend Engineer who enjoy desiging Distributed Systems.
 
 ## Contact
 
